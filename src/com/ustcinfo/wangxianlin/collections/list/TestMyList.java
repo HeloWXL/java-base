@@ -8,7 +8,8 @@ package com.ustcinfo.wangxianlin.collections.list;
  */
 public class TestMyList {
     public static void main(String[] args) {
-
+        ListUtil listUtil = new MyList(5);
+        System.out.println(listUtil.size());
     }
 
 }

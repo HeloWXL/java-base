@@ -25,10 +25,10 @@ public class MyList implements ListUtil {
     }
 
     //初始化方法，设置线性表长度，现有元素个数和初始化对象数组（用线性表长度）
-    public void initiate(int size){
-        maxSize = size;
+    public void initiate(int sz){
+        maxSize = sz;
         size = 0;
-        listArray = new Object[size];
+        listArray = new Object[sz];
     }
 
     @Override
