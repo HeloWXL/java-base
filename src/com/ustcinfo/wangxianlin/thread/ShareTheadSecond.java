@@ -2,7 +2,7 @@ package com.ustcinfo.wangxianlin.thread;
 
 /**
  * @Classname ShareThead1
- * @Description TODO 共享数据+锁
+ * @Description TODO 共享数据+锁 ---控制共享数据
  * @Date 2019/12/3 9:32 下午
  * @Created by wangxianlin
  */

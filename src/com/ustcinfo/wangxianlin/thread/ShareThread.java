@@ -2,7 +2,7 @@ package com.ustcinfo.wangxianlin.thread;
 
 /**
  * @Classname ShareThread
- * @Description TODO 共享数据
+ * @Description TODO 共享数据 --数据不一致
  * @Date 2019/12/3 9:23 下午
  * @Created by wangxianlin
  */
