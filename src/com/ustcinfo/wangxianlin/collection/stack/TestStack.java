@@ -1,4 +1,4 @@
-package com.ustcinfo.wangxianlin.collections.stack;
+package com.ustcinfo.wangxianlin.collection.stack;
 
 /**
  * @Classname TestStack

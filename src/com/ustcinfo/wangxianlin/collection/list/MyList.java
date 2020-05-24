@@ -1,4 +1,4 @@
-package com.ustcinfo.wangxianlin.collections.list;
+package com.ustcinfo.wangxianlin.collection.list;
 
 /**
  * @Classname MyList

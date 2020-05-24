@@ -23,7 +23,7 @@ public class Theard2 implements Runnable {
         int count = 0;
         for(int i =0 ; i <10 ;i++){
             count++;
-            System.out.println("运行第"+(i+1)+"次");
+            System.out.println("运行第"+count+"次");
         }
     }
 }
